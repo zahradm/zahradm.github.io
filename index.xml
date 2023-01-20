@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://zahradm.github.io/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://zahradm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://zahradm.github.io/contact/</link>
+      <pubDate>Fri, 20 Jan 2023 11:51:45 +0330</pubDate>
+      
+      <guid>https://zahradm.github.io/contact/</guid>
+      <description>Name E-mail address Message Send (Powered by Un-static Forms)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zahradm.github.io/about/</link>
+      <pubDate>Fri, 20 Jan 2023 11:51:30 +0330</pubDate>
+      
+      <guid>https://zahradm.github.io/about/</guid>
+      <description>Hi! Link to heading My name is Zahra. Currently, I am a master&amp;rsquo;s student in software engineering at the IUST. My bachelor&amp;rsquo;s degree in statistics is from Alzahra University.</description>
+    </item>
+    
+  </channel>
+</rss>
