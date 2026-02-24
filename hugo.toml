@@ -1,0 +1,47 @@
+baseURL = "https://zahradm.github.io/"
+title = "Home"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 10
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Zahra Dehghani"
+description = "Zahra Dehghani's personal website"
+keywords = "blog,developer,personal,software-engineer,python"
+info = ["Software Engineer"]
+avatarURL = "/images/photo.png"
+footerContent = """Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>."""
+
+dateFormat = "January 2, 2006"
+colorScheme = "auto"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/zahradm"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "/about/"
+
+[[menu.main]]
+name = "Blog"
+weight = 2
+url = "/blog/"
+
+[[menu.main]]
+name = "CV"
+weight = 3
+url = "/CV.pdf"
+
+[[menu.main]]
+name = "Contact"
+weight = 4
+url = "/contact/"
