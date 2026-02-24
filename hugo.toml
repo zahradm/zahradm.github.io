@@ -39,7 +39,7 @@ url = "/blog/"
 [[menu.main]]
 name = "CV"
 weight = 3
-url = "/CV.pdf"
+url = "/cv.pdf"
 
 [[menu.main]]
 name = "Contact"
